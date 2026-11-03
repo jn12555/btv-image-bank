@@ -5,6 +5,10 @@ Lamas_5e3dfe.jpg
   "Traditionelle, fensterlose Häuser in Lamas (Peru)" by Uli von Oben, licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Traditionelle,_fensterlose_H%C3%A4user_in_Lamas_(Peru).JPG
   Source: https://commons.wikimedia.org/wiki/File:Traditionelle,_fensterlose_H%C3%A4user_in_Lamas_(Peru).JPG
 
+Lamas_bbac08.jpg
+  "Lamas (Flickr 52459564573)" by MINCETUR Perú, licensed under CC BY-NC-SA 2.0 (https://creativecommons.org/licenses/by-nc-sa/2.0/), via Flickr: https://www.flickr.com/photos/mincetur_peru/52459564573/
+  Source: https://www.flickr.com/photos/mincetur_peru/52459564573/
+
 Lamas_a60916.jpg
   "Castle in the Amazon, Lamas, Peru" by BrunoLocatelli, licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Castle_in_the_Amazon,_Lamas,_Peru.jpg
   Source: https://commons.wikimedia.org/wiki/File:Castle_in_the_Amazon,_Lamas,_Peru.jpg
@@ -12,4 +16,8 @@ Lamas_a60916.jpg
 Lamas_1b1677.jpg
   "Castell de Lamas, San Martín08" by Pitxiquin, licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Castell_de_Lamas,_San_Mart%C3%ADn08.jpg
   Source: https://commons.wikimedia.org/wiki/File:Castell_de_Lamas,_San_Mart%C3%ADn08.jpg
+
+Lamas_ba4022.jpg
+  "Lamas (Flickr 11066997345)" by Nicolas, licensed under CC BY-NC-SA 2.0 (https://creativecommons.org/licenses/by-nc-sa/2.0/), via Flickr: https://www.flickr.com/photos/niconectado/11066997345/
+  Source: https://www.flickr.com/photos/niconectado/11066997345/
 

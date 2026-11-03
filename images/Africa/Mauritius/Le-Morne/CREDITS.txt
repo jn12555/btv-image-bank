@@ -5,6 +5,10 @@ Le-Morne_542a90.jpg
   "Le Morne Peninsula in Mauritius (53697779236)" by "dronepicr", licensed under CC BY 2.0 (https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Le_Morne_Peninsula_in_Mauritius_(53697779236).jpg
   Source: https://commons.wikimedia.org/wiki/File:Le_Morne_Peninsula_in_Mauritius_(53697779236).jpg
 
+Le-Morne_9a91f9.jpg
+  "Le Morne (Flickr 54594986216)" by Schub@, licensed under CC BY-NC-SA 2.0 (https://creativecommons.org/licenses/by-nc-sa/2.0/), via Flickr: https://www.flickr.com/photos/schubi74/54594986216/
+  Source: https://www.flickr.com/photos/schubi74/54594986216/
+
 Le-Morne_04ba76.jpg
   "Underwater waterfall Mauritius HDR" by Christopher Brown, CC0 (no restrictions), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Underwater_waterfall_Mauritius_HDR.jpg
   Source: https://commons.wikimedia.org/wiki/File:Underwater_waterfall_Mauritius_HDR.jpg
@@ -12,6 +16,10 @@ Le-Morne_04ba76.jpg
 Le-Morne_45d9e5.jpg
   "Le Morne Brabant, Maurizio" by Jolaus, CC0 (no restrictions), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Le_Morne_Brabant,_Maurizio.jpg
   Source: https://commons.wikimedia.org/wiki/File:Le_Morne_Brabant,_Maurizio.jpg
+
+Le-Morne_484c62.jpg
+  "Le Morne (Flickr 2568146351)" by notcub, licensed under CC BY-NC-SA 2.0 (https://creativecommons.org/licenses/by-nc-sa/2.0/), via Flickr: https://www.flickr.com/photos/notcub/2568146351/
+  Source: https://www.flickr.com/photos/notcub/2568146351/
 
 Le-Morne_eac308.jpg
   "Spiaggia di Flic en Flac - Mauritius" by Raffaele pagani, licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Spiaggia_di_Flic_en_Flac_-_Mauritius.jpg
@@ -28,4 +36,8 @@ Le-Morne_5f12c9.jpg
 Le-Morne_893d8b.jpg
   "ROCK IN THE LAGOON IN FRONT OF LE MORNE MOUNTAIN, OCTOBER 2013 - panoramio" by otterboris, licensed under CC BY 3.0 (https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:ROCK_IN_THE_LAGOON_IN_FRONT_OF_LE_MORNE_MOUNTAIN,_OCTOBER_2013_-_panoramio.jpg
   Source: https://commons.wikimedia.org/wiki/File:ROCK_IN_THE_LAGOON_IN_FRONT_OF_LE_MORNE_MOUNTAIN,_OCTOBER_2013_-_panoramio.jpg
+
+Le-Morne_e63cf6.jpg
+  "Le Morne - Mauritius (Flickr 22269147206)" by Xavier Lubeigt, licensed under CC BY-NC-SA 2.0 (https://creativecommons.org/licenses/by-nc-sa/2.0/), via Flickr: https://www.flickr.com/photos/128564470@N08/22269147206/
+  Source: https://www.flickr.com/photos/128564470@N08/22269147206/
 
