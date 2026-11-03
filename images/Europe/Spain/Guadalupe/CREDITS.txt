@@ -1,10 +1,6 @@
 Guadalupe, Spain: image credits (3 November 2026)
 Use of CC BY and CC BY-SA images requires the attribution line given with each image. Copies are resized to 1280 pixels from the originals; each image remains under its own licence (adaptations of CC BY-SA images under the same licence).
 
-Guadalupe_1c44d7.jpg
-  "Guadalupe, plaza - panoramio" by Lorenzo Vallés, licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Guadalupe,_plaza_-_panoramio.jpg
-  Source: https://commons.wikimedia.org/wiki/File:Guadalupe,_plaza_-_panoramio.jpg
-
 Guadalupe_f9e2f9.jpg
   "Exteriores del monasterio de Ntra. Sra. de Guadalupe (Cáceres)" by Mentxuwiki, licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Exteriores_del_monasterio_de_Ntra._Sra._de_Guadalupe_(C%C3%A1ceres).jpg
   Source: https://commons.wikimedia.org/wiki/File:Exteriores_del_monasterio_de_Ntra._Sra._de_Guadalupe_(C%C3%A1ceres).jpg
@@ -12,6 +8,10 @@ Guadalupe_f9e2f9.jpg
 Guadalupe_9b96ff.jpg
   "Guadalupe - Espagne 2014-04292" by Gil Pivert from Paris, France, licensed under CC BY 2.0 (https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Guadalupe_-_Espagne_2014-04292.jpg
   Source: https://commons.wikimedia.org/wiki/File:Guadalupe_-_Espagne_2014-04292.jpg
+
+Guadalupe_1c44d7.jpg
+  "Guadalupe, plaza - panoramio" by Lorenzo Vallés, licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Guadalupe,_plaza_-_panoramio.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Guadalupe,_plaza_-_panoramio.jpg
 
 Guadalupe_b26448.jpg
   "Guadalupe 01" by Jesusccastillo, licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Guadalupe_01.jpg
@@ -28,8 +28,4 @@ Guadalupe_580208.jpg
 Guadalupe_e0cf5e.jpg
   "Claustro de los Milagros, Monasterio de Santa María de Guadalupe" by José Luis Filpo Cabana, licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Claustro_de_los_Milagros,_Monasterio_de_Santa_Mar%C3%ADa_de_Guadalupe.jpg
   Source: https://commons.wikimedia.org/wiki/File:Claustro_de_los_Milagros,_Monasterio_de_Santa_Mar%C3%ADa_de_Guadalupe.jpg
-
-Guadalupe_20f9f1.jpg
-  "Fachada mudejar del Real Monasterio de Santa María de Guadalupe" by Cosasdevolar, licensed under CC BY-SA 3.0 es (https://creativecommons.org/licenses/by-sa/3.0/es/deed.en), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Fachada_mudejar_del_Real_Monasterio_de_Santa_Mar%C3%ADa_de_Guadalupe.JPG
-  Source: https://commons.wikimedia.org/wiki/File:Fachada_mudejar_del_Real_Monasterio_de_Santa_Mar%C3%ADa_de_Guadalupe.JPG
 

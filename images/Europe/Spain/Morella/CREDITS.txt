@@ -1,9 +1,9 @@
 Morella, Spain: image credits (3 November 2026)
 Use of CC BY and CC BY-SA images requires the attribution line given with each image. Copies are resized to 1280 pixels from the originals; each image remains under its own licence (adaptations of CC BY-SA images under the same licence).
 
-Morella_00f98e.jpg
-  "0005 Castell de Morella Q4896127 y Q9007497" by Pedro José Ponce Asensio, licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:0005_Castell_de_Morella_Q4896127_y_Q9007497.jpg
-  Source: https://commons.wikimedia.org/wiki/File:0005_Castell_de_Morella_Q4896127_y_Q9007497.jpg
+Morella_e6055d.jpg
+  "SantaMariaMorella" by Arne Hückelheim, licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:SantaMariaMorella.JPG
+  Source: https://commons.wikimedia.org/wiki/File:SantaMariaMorella.JPG
 
 Morella_174f86.jpg
   "Església arxiprestal de Santa Maria Festa Sexeni 2012" by DagafeSQV, licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Esgl%C3%A9sia_arxiprestal_de_Santa_Maria_Festa_Sexeni_2012.JPG
@@ -13,11 +13,7 @@ Morella_c27aeb.jpg
   "Portalada Església arxiprestal de Santa Maria" by DagafeSQV, licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Portalada_Esgl%C3%A9sia_arxiprestal_de_Santa_Maria.JPG
   Source: https://commons.wikimedia.org/wiki/File:Portalada_Esgl%C3%A9sia_arxiprestal_de_Santa_Maria.JPG
 
-Morella_e6055d.jpg
-  "SantaMariaMorella" by Arne Hückelheim, licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:SantaMariaMorella.JPG
-  Source: https://commons.wikimedia.org/wiki/File:SantaMariaMorella.JPG
-
-Morella_05a55a.jpg
-  "Arcs de la Pedrera, Acueduto de Morella" by Estevoaei, licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Arcs_de_la_Pedrera,_Acueduto_de_Morella.jpg
-  Source: https://commons.wikimedia.org/wiki/File:Arcs_de_la_Pedrera,_Acueduto_de_Morella.jpg
+Morella_00f98e.jpg
+  "0005 Castell de Morella Q4896127 y Q9007497" by Pedro José Ponce Asensio, licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:0005_Castell_de_Morella_Q4896127_y_Q9007497.jpg
+  Source: https://commons.wikimedia.org/wiki/File:0005_Castell_de_Morella_Q4896127_y_Q9007497.jpg
 
